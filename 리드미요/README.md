@@ -39,13 +39,15 @@ python organize.py C:\Users\<이름>\Downloads --apply
 
 이동 대상이 `원래 이름 -> 분류 폴더\이름` 형태로 출력됩니다. 이 단계에서는 파일이 옮겨지지 않습니다.
 
-![미리보기](images/preview.png)
+<img width="881" height="558" alt="image" src="https://github.com/user-attachments/assets/f5d9a335-3158-4bb9-82ea-4307e3c5e2d0" />
+
 
 ### 2. 정리와 되돌리기
 
 `--apply`로 9개 파일을 이동하고, `--undo`로 원래 위치에 복구한 모습입니다.
 
-![정리와 되돌리기](images/apply-undo.png)
+<img width="770" height="546" alt="image" src="https://github.com/user-attachments/assets/d799dbbc-7f82-4206-a8e4-187a5ed22e89" />
+
 
 ## 분류 규칙
 
